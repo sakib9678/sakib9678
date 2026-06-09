@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Mahmudul%20Hasan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=60&descColor=bae6fd" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e,50:a855f7,100:6366f1&height=210&section=header&text=MD%20Shakib%20Hossain%20Sheikh&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descSize=22&descAlignY=60&descColor=fda4af" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=React+%7C+Next.js+%7C+Laravel+%7C+TypeScript;Building+Fast+%26+Scalable+Web+Applications;3%2B+Years+of+Full+Stack+Development;Based+in+Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3000&pause=800&color=f43f5e&center=true&vCenter=true&width=680&lines=React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind+CSS;Crafting+Pixel-Perfect+User+Interfaces;2%2B+Years+of+Frontend+Development;Based+in+Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/ttahsin74?style=flat-square&logo=github&color=38bdf8&labelColor=0f172a&label=Followers)](https://github.com/ttahsin74)
+[![GitHub followers](https://img.shields.io/github/followers/shakibhossainsheikh?style=flat-square&logo=github&color=f43f5e&labelColor=0f0a14&label=Followers)](https://github.com/shakibhossainsheikh)
 &nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=ttahsin74&color=38bdf8&style=flat-square&label=Profile+Views)](https://github.com/ttahsin74)
+[![Profile Views](https://komarev.com/ghpvc/?username=shakibhossainsheikh&color=f43f5e&style=flat-square&label=Profile+Views)](https://github.com/shakibhossainsheikh)
 &nbsp;
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✅-22c55e?style=flat-square&labelColor=0f172a)](mailto:ttahsinn74@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✅-a855f7?style=flat-square&labelColor=0f0a14)](mailto:your@email.com)
 
 </div>
 
@@ -24,25 +24,25 @@
 
 ### 👨‍💻 &nbsp;About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
 
 ```yaml
-Name     : Mahmudul Hasan
-Title    : Full Stack Developer
+Name     : MD Shakib Hossain Sheikh
+Title    : Frontend Developer
 Company  : Ibrahim Tech BD
 Location : Dhaka, Bangladesh
-Exp      : 3+ Years
+Exp      : 2+ Years
 Education: B.Sc. CSE — Ahsanullah ICT
 ```
 
 <br/>
 
-🔥 &nbsp;Specialized in **React**, **Next.js**, **Laravel** & **TypeScript**  
-⚡ &nbsp;Experienced across the full stack — from UI design to RESTful APIs  
-🧠 &nbsp;Passionate about clean code & performance optimization  
-🚀 &nbsp;Currently leading a dev team at **Ibrahim Tech BD**  
-🌱 &nbsp;Always learning — currently deepening **DevOps** knowledge  
-📬 &nbsp;Reach me at **ttahsinn74@gmail.com**  
+🎨 &nbsp;Passionate about crafting **clean, responsive UI** that users love  
+⚡ &nbsp;Specialized in **React**, **Next.js**, **TypeScript** & **Tailwind CSS**  
+🧠 &nbsp;Strong focus on **component architecture** and **performance**  
+🚀 &nbsp;Building great products at **Ibrahim Tech BD**  
+🌱 &nbsp;Currently exploring **animations**, **micro-interactions** & **UI/UX principles**  
+📬 &nbsp;Reach me at **your@email.com**
 
 <br clear="right"/>
 
@@ -52,34 +52,31 @@ Education: B.Sc. CSE — Ahsanullah ICT
 
 <div align="center">
 
-**⚡ Frontend**
+**⚡ Frontend — My Home**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0ea5e9?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**🔧 Backend**
+**🔧 Backend & APIs**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**🗄️ Database & Tools**
+**🗄️ Tools & Workflow**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 
 </div>
 
@@ -97,46 +94,17 @@ Education: B.Sc. CSE — Ahsanullah ICT
   </thead>
   <tbody>
     <tr>
-      <td>🏆 <strong>Full Stack Developer</strong></td>
+      <td>🚀 <strong>Frontend Developer</strong></td>
       <td><strong>Ibrahim Tech BD</strong></td>
-      <td><code>Nov 2024 – Present</code></td>
+      <td><code>Present</code></td>
     </tr>
     <tr>
       <td colspan="3">
         <ul>
-          <li>Leading a small frontend team to deliver fast, user-friendly web applications</li>
-          <li>Developing full-stack projects end-to-end with <strong>React, Next.js & Laravel</strong></li>
-          <li>Building and maintaining scalable RESTful backend APIs</li>
-          <li>Improving project delivery speed and enforcing clean code practices</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>💻 <strong>Frontend Developer</strong></td>
-      <td><strong>Sky Dream IT</strong></td>
-      <td><code>Jan 2024 – Oct 2024</code></td>
-    </tr>
-    <tr>
-      <td colspan="3">
-        <ul>
-          <li>Built modern web applications using <strong>React & Next.js</strong></li>
-          <li>Developed a user-friendly business dashboard with improved UX</li>
-          <li>Implemented responsive, cross-device compatible forms using Angular & React</li>
-          <li>Reduced UI bugs and improved layout consistency across devices</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>🎓 <strong>Frontend Developer Intern</strong></td>
-      <td><strong>Creative IT Institute</strong></td>
-      <td><code>Apr 2023 – Nov 2023</code></td>
-    </tr>
-    <tr>
-      <td colspan="3">
-        <ul>
-          <li>Mastered HTML, CSS, JavaScript and modern frontend frameworks</li>
-          <li>Built responsive UI components and real-world mini-projects</li>
-          <li>Learned industry-standard workflows and development best practices</li>
+          <li>Building and shipping responsive, performant web interfaces with <strong>React & Next.js</strong></li>
+          <li>Collaborating closely with backend and design teams to deliver pixel-perfect UIs</li>
+          <li>Maintaining consistent component libraries and enforcing frontend best practices</li>
+          <li>Improving page load performance and cross-browser compatibility across products</li>
         </ul>
       </td>
     </tr>
@@ -151,15 +119,15 @@ Education: B.Sc. CSE — Ahsanullah ICT
 
 | &nbsp; | Project | Description | Stack | Link |
 |:---:|:--------|:------------|:------|:----:|
-| 📚 | **BoiAche** | Full-stack eCommerce platform for books — built from scratch with product listings, cart & API integration | `Next.js` `Laravel` `TypeScript` `Tailwind` | [🔗 Live](https://boiache.com) |
-| 📖 | **Ahsan Prokashoni** | Online bookstore & multi-product eCommerce with responsive design and full-stack API integration | `Next.js` `Laravel` `Tailwind` | [🔗 Live](https://ahsan.com.bd) |
-| 🎓 | **Edu Poribar** | Online Learning Management System — full responsive UI design & backend feature development | `Laravel` `Bootstrap` | [🔗 Live](https://eduporibar.com) |
+| 🛒 | **Project One** | Brief description of what this project does and what problem it solves | `Next.js` `TypeScript` `Tailwind` | [🔗 Live](#) |
+| 📦 | **Project Two** | Brief description of what this project does and what problem it solves | `React` `Redux` `REST API` | [🔗 Live](#) |
+| 🎨 | **Project Three** | Brief description of what this project does and what problem it solves | `Next.js` `Laravel` `Tailwind` | [🔗 Live](#) |
 
 </div>
 
 <div align="center">
-  <a href="https://github.com/ttahsin74?tab=repositories">
-    <img src="https://img.shields.io/badge/🔍%20View%20All%20Repositories-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" alt="All Repos"/>
+  <a href="https://github.com/shakibhossainsheikh?tab=repositories">
+    <img src="https://img.shields.io/badge/🔍%20View%20All%20Repositories-0f0a14?style=for-the-badge&logo=github&logoColor=f43f5e" alt="All Repos"/>
   </a>
 </div>
 
@@ -168,19 +136,19 @@ Education: B.Sc. CSE — Ahsanullah ICT
 ### 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ttahsin74&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=38bdf8&icon_color=38bdf8" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shakibhossainsheikh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=f43f5e&icon_color=a855f7" height="170" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ttahsin74&theme=tokyonight&hide_border=true&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8" height="170" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakibhossainsheikh&theme=tokyonight&hide_border=true&ring=f43f5e&fire=a855f7&currStreakLabel=f43f5e" height="170" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttahsin74&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=38bdf8" width="55%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakibhossainsheikh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=f43f5e" width="55%" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ttahsin74&theme=tokyo-night&hide_border=true&area=true&color=38bdf8&line=38bdf8&point=ffffff" width="96%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakibhossainsheikh&theme=tokyo-night&hide_border=true&area=true&color=f43f5e&line=a855f7&point=ffffff" width="96%" alt="Activity Graph"/>
 </div>
 
 <br/>
@@ -197,15 +165,7 @@ Education: B.Sc. CSE — Ahsanullah ICT
 <table>
   <tr>
     <td>🏛️</td>
-    <td><strong>Bachelor of Science — Computer Science & Engineering</strong><br/>Ahsanullah Institute of Information & Communication Technology &nbsp;|&nbsp; Session: 2019–20</td>
-  </tr>
-  <tr>
-    <td>📜</td>
-    <td><strong>Higher Secondary Certificate — Science</strong><br/>Kishoregonj Model College &nbsp;|&nbsp; 2018</td>
-  </tr>
-  <tr>
-    <td>📋</td>
-    <td><strong>Secondary School Certificate — Science</strong><br/>Masua High School &nbsp;|&nbsp; 2016</td>
+    <td><strong>Bachelor of Science — Computer Science & Engineering</strong><br/>Ahsanullah Institute of Information & Communication Technology &nbsp;|&nbsp; Session: 2020–21</td>
   </tr>
 </table>
 
@@ -215,20 +175,22 @@ Education: B.Sc. CSE — Ahsanullah ICT
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ttahsinn74@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ttahsin74)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shakibhossainsheikh)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801838389494)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shakibhossainsheikh)
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/88XXXXXXXXXX)
 
 <br/>
 
-📍 &nbsp;Modda Badda, Boishakhi Shoroni, Dhaka, Bangladesh
+📍 &nbsp;Dhaka, Bangladesh
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:f43f5e&height=100&section=footer" />
 </div>
