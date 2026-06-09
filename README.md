@@ -14,7 +14,7 @@
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=sakib9678&color=f43f5e&style=flat-square&label=Profile+Views)](https://github.com/sakib9678)
 &nbsp;
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✅-a855f7?style=flat-square&labelColor=0f0a14)](mailto:your@email.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✅-a855f7?style=flat-square&labelColor=0f0a14)](mailto:sakibahmed9678@email.com)
 
 </div>
 
@@ -42,7 +42,7 @@ Education: B.Sc. CSE — Ahsanullah ICT
 🧠 &nbsp;Strong focus on **component architecture** and **performance**  
 🚀 &nbsp;Building great products at **Ibrahim Tech BD**  
 🌱 &nbsp;Currently exploring **animations**, **micro-interactions** & **UI/UX principles**  
-📬 &nbsp;Reach me at **your@email.com**
+📬 &nbsp;Reach me at **sakibahmed9678@email.com**
 
 <br clear="right"/>
 
@@ -70,7 +70,6 @@ Education: B.Sc. CSE — Ahsanullah ICT
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
@@ -161,7 +160,15 @@ Education: B.Sc. CSE — Ahsanullah ICT
 <table>
   <tr>
     <td>🏛️</td>
-    <td><strong>Bachelor of Science — Computer Science & Engineering</strong><br/>Ahsanullah Institute of Information & Communication Technology &nbsp;|&nbsp; Session: 2020–21</td>
+    <td><strong>Bachelor of Science — Computer Science & Engineering</strong><br/>Ahsanullah Institute of Information & Communication Technology &nbsp;|&nbsp; Session: 2019–20</td>
+  </tr>
+  <tr>
+    <td>📜</td>
+    <td><strong>Higher Secondary Certificate — Science</strong><br/>Govt. Shaheed Suhrawardy College &nbsp;|&nbsp; 2019</td>
+  </tr>
+  <tr>
+    <td>📋</td>
+    <td><strong>Secondary School Certificate — Science</strong><br/>Gendaria High School &nbsp;|&nbsp; 2017</td>
   </tr>
 </table>
 
