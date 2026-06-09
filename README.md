@@ -10,9 +10,9 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/shakibhossainsheikh?style=flat-square&logo=github&color=f43f5e&labelColor=0f0a14&label=Followers)](https://github.com/shakibhossainsheikh)
+[![GitHub followers](https://img.shields.io/github/followers/sakib9678?style=flat-square&logo=github&color=f43f5e&labelColor=0f0a14&label=Followers)](https://github.com/sakib9678)
 &nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=shakibhossainsheikh&color=f43f5e&style=flat-square&label=Profile+Views)](https://github.com/shakibhossainsheikh)
+[![Profile Views](https://komarev.com/ghpvc/?username=sakib9678&color=f43f5e&style=flat-square&label=Profile+Views)](https://github.com/sakib9678)
 &nbsp;
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✅-a855f7?style=flat-square&labelColor=0f0a14)](mailto:your@email.com)
 
@@ -63,11 +63,7 @@ Education: B.Sc. CSE — Ahsanullah ICT
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**🔧 Backend & APIs**
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **🗄️ Tools & Workflow**
 
@@ -119,14 +115,14 @@ Education: B.Sc. CSE — Ahsanullah ICT
 
 | &nbsp; | Project | Description | Stack | Link |
 |:---:|:--------|:------------|:------|:----:|
-| 🛒 | **Project One** | Brief description of what this project does and what problem it solves | `Next.js` `TypeScript` `Tailwind` | [🔗 Live](#) |
-| 📦 | **Project Two** | Brief description of what this project does and what problem it solves | `React` `Redux` `REST API` | [🔗 Live](#) |
-| 🎨 | **Project Three** | Brief description of what this project does and what problem it solves | `Next.js` `Laravel` `Tailwind` | [🔗 Live](#) |
+| 🛒 | **BoiAche** | Full-stack eCommerce platform for books — built from scratch with product listings, cart & API integration | `Next.js` `TypeScript` `Tailwind` | [🔗 Live](https://boiache.com/) |
+| 📦 | **Ahsan Prokashoni** | Online bookstore & multi-product eCommerce with responsive design and full-stack API integration | `React` `Redux` `REST API` | [🔗 Live](http://ahsan.com.bd/) |
+| 🎨 | **Edu Poribar** | Online Learning Management System — full responsive UI design & backend feature development | `Laravel` `Bootstrap` | [🔗 Live](http://eduporibar.com/) |
 
 </div>
 
 <div align="center">
-  <a href="https://github.com/shakibhossainsheikh?tab=repositories">
+  <a href="https://github.com/sakib9678?tab=repositories">
     <img src="https://img.shields.io/badge/🔍%20View%20All%20Repositories-0f0a14?style=for-the-badge&logo=github&logoColor=f43f5e" alt="All Repos"/>
   </a>
 </div>
@@ -136,19 +132,19 @@ Education: B.Sc. CSE — Ahsanullah ICT
 ### 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakibhossainsheikh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=f43f5e&icon_color=a855f7" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sakib9678&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=f43f5e&icon_color=a855f7" height="170" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakibhossainsheikh&theme=tokyonight&hide_border=true&ring=f43f5e&fire=a855f7&currStreakLabel=f43f5e" height="170" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakib9678&theme=tokyonight&hide_border=true&ring=f43f5e&fire=a855f7&currStreakLabel=f43f5e" height="170" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakibhossainsheikh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=f43f5e" width="55%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib9678&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=f43f5e" width="55%" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakibhossainsheikh&theme=tokyo-night&hide_border=true&area=true&color=f43f5e&line=a855f7&point=ffffff" width="96%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakib9678&theme=tokyo-night&hide_border=true&area=true&color=f43f5e&line=a855f7&point=ffffff" width="96%" alt="Activity Graph"/>
 </div>
 
 <br/>
@@ -175,13 +171,13 @@ Education: B.Sc. CSE — Ahsanullah ICT
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakibahmed9678@email.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shakibhossainsheikh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakib9678)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shakibhossainsheikh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakib9678)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/88XXXXXXXXXX)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801624316680)
 
 <br/>
 
